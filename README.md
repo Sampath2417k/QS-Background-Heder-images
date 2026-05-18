@@ -9,3 +9,25 @@ This repository  contains assets of  images and jif for heder images in QS panel
 | **Eyes** | <img src="02_eyes.gif" width="200" alt="Eyes Preview"/> | [Download 02_eyes.gif](02_eyes.gif) |
 | **Pixel heart**| <img src="03_Pixel_heart_0.1.gif" width="200" alt="Pixel heart"/> |[Download 03_Pixel heart.gif](03_Pixel_heart_0.1.gif)|
 | **Crown** | <img src="04_crown.gif" width=200 alt="Crown"/> |[Download 04_crown.gif](04_crown.gif)|
+| **GOST (COD)** | <img src="gost.gif" width=200 alt="gost.gif " /> |[Download GOST (COD  ](gost.gif) |
+
+
+
+
+
+
+| **  ** | <img src="  " width=200 alt=" "/> |[Download   ](  ) |
+| **  ** | <img src="  " width=200 alt=" "/> |[Download   ](  ) |
+| **  ** | <img src="  " width=200 alt=" "/> |[Download   ](  ) |
+| **  ** | <img src="  " width=200 alt=" "/> |[Download   ](  ) |
+| **  ** | <img src="  " width=200 alt=" "/> |[Download   ](  ) |
+| **  ** | <img src="  " width=200 alt=" "/> |[Download   ](  ) |
+| **  ** | <img src="  " width=200 alt=" "/> |[Download   ](  ) |
+| **  ** | <img src="  " width=200 alt=" "/> |[Download   ](  ) |
+| **  ** | <img src="  " width=200 alt=" "/> |[Download   ](  ) |
+| **  ** | <img src="  " width=200 alt=" "/> |[Download   ](  ) |
+| **  ** | <img src="  " width=200 alt=" "/> |[Download   ](  ) |
+| **  ** | <img src="  " width=200 alt=" "/> |[Download   ](  ) |
+| **  ** | <img src="  " width=200 alt=" "/> |[Download   ](  ) |
+| **  ** | <img src="  " width=200 alt=" "/> |[Download   ](  ) |
+| **  ** | <img src="  " width=200 alt=" "/> |[Download   ](  ) |
