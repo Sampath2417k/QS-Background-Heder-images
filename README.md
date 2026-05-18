@@ -20,7 +20,7 @@ This repository  contains assets of  images and jif for heder images in QS panel
 | **white dotes** | <img src="jif/white_dotes.gif " width=200 alt="white_dotes.gif  "/> | [Download GOST (COD)](jif/white_dotes.gif  ) |
 
 
-| **  ** | <img src="jif/    " width=200 alt="   "/> | [Download GOST (COD)](jif/   ) |
-| **  ** | <img src="jif/    " width=200 alt="   "/> | [Download GOST (COD)](jif/   ) |
+| **  ** | <img src="jif/    " width=200 alt="   "/> | [Download ](jif/   ) |
+| **  ** | <img src="jif/    " width=200 alt="   "/> | [Download ](jif/   ) |
 
 
