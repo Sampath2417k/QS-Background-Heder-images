@@ -10,11 +10,6 @@ This repository  contains assets of  images and jif for heder images in QS panel
 | **Pixel heart**| <img src="03_Pixel_heart_0.1.gif" width="200" alt="Pixel heart"/> |[Download 03_Pixel heart.gif](03_Pixel_heart_0.1.gif)|
 | **Crown** | <img src="04_crown.gif" width=200 alt="Crown"/> |[Download 04_crown.gif](04_crown.gif)|
 | **GOST (COD)** | <img src="jif/gost.gif" width=200 alt="gost.gif" /> |[Download GOST (COD)  ](gost.gif) |
-
-
-| **  ** | <img src="jif/    " width=200 alt="   "/> | [Download GOST (COD)](jif/   ) |
-
-
 | **spiderman novear** | <img src="jif/spiderman_novear.gif" width=200 alt="spiderman_novear.gif"/> | [Download GOST (COD)](jif/spiderman_novear.gif) |
 
 
@@ -47,6 +42,7 @@ This repository  contains assets of  images and jif for heder images in QS panel
 | **white dotes** | <img src="jif/ white_dotes.gif " width=200 alt="white_dotes.gif  "/> | [Download GOST (COD)](jif/white_dotes.gif  ) |
 
 
+| **  ** | <img src="jif/    " width=200 alt="   "/> | [Download GOST (COD)](jif/   ) |
 | **  ** | <img src="jif/    " width=200 alt="   "/> | [Download GOST (COD)](jif/   ) |
 
 
