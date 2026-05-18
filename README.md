@@ -18,9 +18,8 @@ This repository  contains assets of  images and jif for heder images in QS panel
 | **Black hole** | <img src="jif/space_sucking_light.gif   " width=200 alt="  space_sucking_light.gif "/> | [Download space sucking light](jif/space_sucking_light.gif   )|
 | **Stars BG** | <img src="jif/stars_bg.gif   " width=200 alt=" stars_bg.gif  "/> | [Download Stars BG ](jif/stars_bg.gif   ) |
 | **White dotes** | <img src="jif/white_dotes.gif " width=200 alt="white_dotes.gif  "/> | [Download White dotes](jif/white_dotes.gif  ) |
-
+| **ECG_PULSE** | <img src="jif/ECG_PULSE.gif" width=200 alt=" ECG_PULSE.gif"/> | [Download ECG_PULSE](jif/ECG_PULSE.gif   ) |
+| **Wings** | <img src="jif/wings.gif " width=200 alt="wings.gif "/> | [Download wings](jif/wings.gif) |
 
 | **  ** | <img src="jif/    " width=200 alt="   "/> | [Download ](jif/   ) |
-| **  ** | <img src="jif/    " width=200 alt="   "/> | [Download ](jif/   ) |
-
 
